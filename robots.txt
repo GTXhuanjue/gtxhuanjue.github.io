@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gtxhuanjue.github.io/sitemap.xml 
